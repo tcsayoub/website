@@ -1,0 +1,37 @@
+
+.navbar-logo h1{
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.navbar-logo img{
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.container-header ul li a{
+  opacity: 0.7;
+}
+
+.coming-soon__text {
+  color: red;
+  border: 1px solid red;
+  font-size: 12px;
+  border-radius: 6px;
+  display: inline-block;
+  z-index: 9;
+  top: -13px;
+  left: -1px;
+}
+
+.coming-soon__text p{
+  margin: 0;
+  padding: 0;
+}
+
+.width-fix-80{
+  width: 80px;
+}
